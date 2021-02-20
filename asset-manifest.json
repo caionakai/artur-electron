@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/artur-electron/static/css/main.bf069c45.chunk.css",
+    "main.js": "/artur-electron/static/js/main.378c53ac.chunk.js",
+    "main.js.map": "/artur-electron/static/js/main.378c53ac.chunk.js.map",
+    "runtime-main.js": "/artur-electron/static/js/runtime-main.d8760e80.js",
+    "runtime-main.js.map": "/artur-electron/static/js/runtime-main.d8760e80.js.map",
+    "static/css/2.150d169a.chunk.css": "/artur-electron/static/css/2.150d169a.chunk.css",
+    "static/js/2.800a0357.chunk.js": "/artur-electron/static/js/2.800a0357.chunk.js",
+    "static/js/2.800a0357.chunk.js.map": "/artur-electron/static/js/2.800a0357.chunk.js.map",
+    "static/js/3.73d76974.chunk.js": "/artur-electron/static/js/3.73d76974.chunk.js",
+    "static/js/3.73d76974.chunk.js.map": "/artur-electron/static/js/3.73d76974.chunk.js.map",
+    "index.html": "/artur-electron/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/artur-electron/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.bf069c45.chunk.css.map": "/artur-electron/static/css/main.bf069c45.chunk.css.map",
+    "static/js/2.800a0357.chunk.js.LICENSE.txt": "/artur-electron/static/js/2.800a0357.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8760e80.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.800a0357.chunk.js",
+    "static/css/main.bf069c45.chunk.css",
+    "static/js/main.378c53ac.chunk.js"
+  ]
+}
