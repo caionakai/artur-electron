@@ -35,6 +35,7 @@ function App() {
       .then(function (response) {
         // handle success
         console.log("funcionou");
+        alert("Tracking inserido!");
       })
       .catch(function (error) {
         // handle error
@@ -56,7 +57,8 @@ function App() {
               <ul>3º Copia o código</ul>
               <ul>
                 4º Fala com o <strong>@artur_electron_bot</strong> no Telegram e
-                envia o codigo {randomId}
+                envia o codigo {randomId} - Envie o código com letra maiúscula
+                para o bot!
               </ul>
               <br></br>
             </div>
